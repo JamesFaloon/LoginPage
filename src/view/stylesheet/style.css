@@ -1,0 +1,33 @@
+header {
+    background-color: #00DDFF;
+    padding: 30px;
+}
+
+form {
+    border: black solid 1px;
+    padding: 50px;
+    border-radius: 30px;
+    position: relative;
+    width: 50%;
+}
+
+
+
+article {
+    height: 85vh;
+}
+
+
+#submit {
+    border-radius: 30px;
+    
+}
+
+.line {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background-color: black;
+    margin: 10px 0;
+    height: 1px;
+}
